@@ -170,6 +170,7 @@ public class MyProfileTest extends BaseClass {
 		logger.info("Delete button clicked");
 		logger.info("Delete button clicked");
 
+
 		Thread.sleep(3000);
 
 	}
