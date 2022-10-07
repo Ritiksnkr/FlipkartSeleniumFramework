@@ -167,8 +167,9 @@ public class MyProfileTest extends BaseClass {
 
 		profile.DELETE_BTN.click();
 		logger.info("Delete button clicked");
+		
 		logger.info("Delete button clicked");
-		logger.info("Delete button clicked");
+
 
 
 		Thread.sleep(3000);
