@@ -35,6 +35,7 @@ Any code editor or IDE like eclipse, intellij, etc.
 * #### To change the browser, enter the browser name either chrome/edge/firefox inside /config.properties files.
 * #### To check the error report goto Flipkart/ExtentReports/.
 * #### To check Screenshots goto Flipkart/ScreenCaptures/.
+* #### To check Log File goto Flipkart/logs/.
 
 * #### Downlaod the chrome driver as per your chrome browser version if required and put it inside src/main/resorces/Drivers/.
 
