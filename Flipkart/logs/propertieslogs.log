@@ -1,0 +1,159 @@
+[INFO ] 2022-10-07 11:27:28.304 [main] LoginPageTest - User's valid Mobile Number is entered
+[INFO ] 2022-10-07 11:27:28.387 [main] LoginPageTest - User's valid Password is entered
+[INFO ] 2022-10-07 11:27:33.479 [main] LoginPageTest - Clicked on login button
+[INFO ] 2022-10-07 11:27:33.485 [main] LoginPageTest - Actual Title is
+[INFO ] 2022-10-07 11:27:33.485 [main] LoginPageTest - Expected Title is
+[INFO ] 2022-10-07 11:27:36.585 [main] CartPageTest - Cart Clicked
+[INFO ] 2022-10-07 11:33:48.241 [main] LoginPageTest - User's valid Mobile Number is entered
+[INFO ] 2022-10-07 11:33:48.306 [main] LoginPageTest - User's valid Password is entered
+[INFO ] 2022-10-07 11:33:53.416 [main] LoginPageTest - Clicked on login button
+[INFO ] 2022-10-07 11:33:53.422 [main] LoginPageTest - Actual Title is
+[INFO ] 2022-10-07 11:33:53.422 [main] LoginPageTest - Expected Title is
+[INFO ] 2022-10-07 11:33:56.518 [main] CartPageTest - Cart Clicked
+[INFO ] 2022-10-07 11:35:47.386 [main] LoginPageTest - User's valid Mobile Number is entered
+[INFO ] 2022-10-07 11:35:47.442 [main] LoginPageTest - User's valid Password is entered
+[INFO ] 2022-10-07 11:35:52.513 [main] LoginPageTest - Clicked on login button
+[INFO ] 2022-10-07 11:35:52.520 [main] LoginPageTest - Actual Title is
+[INFO ] 2022-10-07 11:35:52.520 [main] LoginPageTest - Expected Title is
+[INFO ] 2022-10-07 11:37:38.461 [main] LoginPageTest - User's valid Mobile Number is entered
+[INFO ] 2022-10-07 11:37:38.526 [main] LoginPageTest - User's valid Password is entered
+[INFO ] 2022-10-07 11:37:43.635 [main] LoginPageTest - Clicked on login button
+[INFO ] 2022-10-07 11:37:43.640 [main] LoginPageTest - Actual Title is
+[INFO ] 2022-10-07 11:37:43.640 [main] LoginPageTest - Expected Title is
+[INFO ] 2022-10-07 11:37:46.728 [main] CartPageTest - Cart Clicked
+[INFO ] 2022-10-07 12:01:32.107 [main] LoginPageTest - User's valid Mobile Number is entered
+[INFO ] 2022-10-07 12:01:32.178 [main] LoginPageTest - User's valid Password is entered
+[INFO ] 2022-10-07 12:01:37.272 [main] LoginPageTest - Clicked on login button
+[INFO ] 2022-10-07 12:01:37.279 [main] LoginPageTest - Actual Title is
+[INFO ] 2022-10-07 12:01:37.279 [main] LoginPageTest - Expected Title is
+[INFO ] 2022-10-07 12:02:40.410 [main] LoginPageTest - User's Invalid Mobile Number or Email is entered
+[INFO ] 2022-10-07 12:02:40.466 [main] LoginPageTest - User's Invalid Password is entered
+[INFO ] 2022-10-07 12:02:40.514 [main] LoginPageTest - Clicked on login button
+[INFO ] 2022-10-07 12:02:45.577 [main] LoginPageTest - Actual Title is
+[INFO ] 2022-10-07 12:02:45.577 [main] LoginPageTest - Expected Title is
+[INFO ] 2022-10-07 12:03:37.844 [main] LoginPageTest - Mobile Number or Email is entered
+[INFO ] 2022-10-07 12:03:37.891 [main] LoginPageTest - Password is not entered
+[INFO ] 2022-10-07 12:03:37.936 [main] LoginPageTest - Clicked on login button
+[INFO ] 2022-10-07 12:03:43.003 [main] LoginPageTest - Actual Title is
+[INFO ] 2022-10-07 12:03:43.003 [main] LoginPageTest - Expected Title is
+[INFO ] 2022-10-07 12:04:30.370 [main] LoginPageTest - Email or Moile is not entered
+[INFO ] 2022-10-07 12:04:30.440 [main] LoginPageTest - Password is entered
+[INFO ] 2022-10-07 12:04:30.493 [main] LoginPageTest - Clicked on login button
+[INFO ] 2022-10-07 12:04:35.536 [main] LoginPageTest - Actual Title is
+[INFO ] 2022-10-07 12:04:35.536 [main] LoginPageTest - Expected Title is
+[INFO ] 2022-10-07 12:05:41.032 [main] SignUpPageTest - Clicked on create account
+[INFO ] 2022-10-07 12:05:41.197 [main] SignUpPageTest - Mobile or email entered
+[INFO ] 2022-10-07 12:06:14.218 [main] HomePageTest - Title Verified
+[INFO ] 2022-10-07 12:07:14.601 [main] HomePageTest - Search Box is displayed
+[INFO ] 2022-10-07 12:07:50.358 [main] HomePageTest - Cart Option is displayed
+[INFO ] 2022-10-07 12:08:56.896 [main] HomePageTest - Logo is displayed
+[INFO ] 2022-10-07 12:10:38.680 [main] SearchPageTest - Clicked on searchbox
+[INFO ] 2022-10-07 12:10:40.743 [main] SearchPageTest - Search Button clicked
+[INFO ] 2022-10-07 12:10:49.801 [main] SearchPageTest - Actual Title is 
+[INFO ] 2022-10-07 12:10:49.801 [main] SearchPageTest - Expected Title is 
+[INFO ] 2022-10-07 12:12:15.625 [main] SearchPageTest - 
+[INFO ] 2022-10-07 12:12:17.679 [main] SearchPageTest - 
+[INFO ] 2022-10-07 12:12:22.722 [main] SearchPageTest - 
+[INFO ] 2022-10-07 12:12:45.020 [main] LoginPageTest - User's valid Mobile Number is entered
+[INFO ] 2022-10-07 12:12:45.088 [main] LoginPageTest - User's valid Password is entered
+[INFO ] 2022-10-07 12:12:50.189 [main] LoginPageTest - Clicked on login button
+[INFO ] 2022-10-07 12:12:50.197 [main] LoginPageTest - Actual Title is
+[INFO ] 2022-10-07 12:12:50.197 [main] LoginPageTest - Expected Title is
+[INFO ] 2022-10-07 12:12:53.296 [main] CartPageTest - Cart Clicked
+[INFO ] 2022-10-07 12:13:42.717 [main] SearchPageTest - Clicked on searchbox
+[INFO ] 2022-10-07 12:13:44.772 [main] SearchPageTest - Search Button clicked
+[INFO ] 2022-10-07 12:13:53.826 [main] SearchPageTest - Actual Title is 
+[INFO ] 2022-10-07 12:13:53.827 [main] SearchPageTest - Expected Title is 
+[INFO ] 2022-10-07 12:13:53.925 [main] CartPageTest - Item Selected
+[INFO ] 2022-10-07 12:14:02.221 [main] CartPageTest - ADD_TO_CART Clicked
+[INFO ] 2022-10-07 12:14:33.469 [main] SearchPageTest - Clicked on searchbox
+[INFO ] 2022-10-07 12:14:35.529 [main] SearchPageTest - Search Button clicked
+[INFO ] 2022-10-07 12:14:44.597 [main] SearchPageTest - Actual Title is 
+[INFO ] 2022-10-07 12:14:44.597 [main] SearchPageTest - Expected Title is 
+[INFO ] 2022-10-07 12:14:44.691 [main] PlaceOrderTest - Item Selected
+[INFO ] 2022-10-07 12:14:50.214 [main] PlaceOrderTest - Clicked on add to cart
+[INFO ] 2022-10-07 12:14:53.709 [main] PlaceOrderTest - Clicked on Place Order
+[INFO ] 2022-10-07 12:15:00.174 [main] PlaceOrderTest - Entered Mobile number and Pasword
+[INFO ] 2022-10-07 12:15:00.174 [main] PlaceOrderTest - Clicked on login
+[INFO ] 2022-10-07 12:15:37.622 [main] LoginPageTest - User's valid Mobile Number is entered
+[INFO ] 2022-10-07 12:15:37.692 [main] LoginPageTest - User's valid Password is entered
+[INFO ] 2022-10-07 12:15:42.776 [main] LoginPageTest - Clicked on login button
+[INFO ] 2022-10-07 12:15:42.781 [main] LoginPageTest - Actual Title is
+[INFO ] 2022-10-07 12:15:42.782 [main] LoginPageTest - Expected Title is
+[INFO ] 2022-10-07 12:15:45.866 [main] CartPageTest - Cart Clicked
+[INFO ] 2022-10-07 12:15:48.877 [main] PaymentTest - Clicked on place order
+[INFO ] 2022-10-07 12:15:53.887 [main] PaymentTest - Mouse hover on press and hold button for verification
+[INFO ] 2022-10-07 12:16:30.382 [main] SearchPageTest - Clicked on searchbox
+[INFO ] 2022-10-07 12:16:32.478 [main] SearchPageTest - Search Button clicked
+[INFO ] 2022-10-07 12:16:41.541 [main] SearchPageTest - Actual Title is 
+[INFO ] 2022-10-07 12:16:41.541 [main] SearchPageTest - Expected Title is 
+[INFO ] 2022-10-07 12:16:41.617 [main] FilterTest - Filters Assertion Passed
+[INFO ] 2022-10-07 12:17:38.663 [main] SearchPageTest - Clicked on searchbox
+[INFO ] 2022-10-07 12:17:40.731 [main] SearchPageTest - Search Button clicked
+[INFO ] 2022-10-07 12:17:49.790 [main] SearchPageTest - Actual Title is 
+[INFO ] 2022-10-07 12:17:49.790 [main] SearchPageTest - Expected Title is 
+[INFO ] 2022-10-07 12:17:49.921 [main] FilterTest - Minimum Price Selected
+[INFO ] 2022-10-07 12:17:52.011 [main] FilterTest - Brand selected
+[INFO ] 2022-10-07 12:17:56.136 [main] FilterTest - Customer Rating Entered
+[INFO ] 2022-10-07 12:18:00.316 [main] FilterTest - Storage requirement selected
+[INFO ] 2022-10-07 12:18:06.562 [main] FilterTest - Operating System requirement selected
+[INFO ] 2022-10-07 12:18:10.758 [main] FilterTest - Type of network selected
+[INFO ] 2022-10-07 12:19:02.802 [main] GroceryTest - Actual title is Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+[INFO ] 2022-10-07 12:19:02.808 [main] GroceryTest - Expected Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+[INFO ] 2022-10-07 12:19:51.820 [main] GroceryTest - Clicked on Grocery
+[INFO ] 2022-10-07 12:19:56.918 [main] GroceryTest - Pin code entered
+[INFO ] 2022-10-07 12:19:59.004 [main] GroceryTest - Clicked on Current Location
+[INFO ] 2022-10-07 12:20:02.209 [main] GroceryTest - Product Searched
+[INFO ] 2022-10-07 12:20:55.116 [main] LoginPageTest - User's valid Mobile Number is entered
+[INFO ] 2022-10-07 12:20:55.176 [main] LoginPageTest - User's valid Password is entered
+[INFO ] 2022-10-07 12:21:00.242 [main] LoginPageTest - Clicked on login button
+[INFO ] 2022-10-07 12:21:00.247 [main] LoginPageTest - Actual Title is
+[INFO ] 2022-10-07 12:21:00.247 [main] LoginPageTest - Expected Title is
+[INFO ] 2022-10-07 12:21:03.413 [main] MyProfileTest - Mouse hover on Login
+[INFO ] 2022-10-07 12:21:03.506 [main] MyProfileTest - Clicke on My Profile
+[INFO ] 2022-10-07 12:21:06.575 [main] MyProfileTest - Actual User Name on profile is 
+[INFO ] 2022-10-07 12:21:06.576 [main] MyProfileTest - Expected User Name on profile is Ritik Sonker
+[INFO ] 2022-10-07 12:22:44.023 [main] LoginPageTest - User's valid Mobile Number is entered
+[INFO ] 2022-10-07 12:22:44.091 [main] LoginPageTest - User's valid Password is entered
+[INFO ] 2022-10-07 12:22:49.154 [main] LoginPageTest - Clicked on login button
+[INFO ] 2022-10-07 12:22:49.158 [main] LoginPageTest - Actual Title is
+[INFO ] 2022-10-07 12:22:49.158 [main] LoginPageTest - Expected Title is
+[INFO ] 2022-10-07 12:22:52.330 [main] MyProfileTest - Mouse hover on Login
+[INFO ] 2022-10-07 12:22:54.409 [main] MyProfileTest - Clicked on My Profile
+[INFO ] 2022-10-07 12:23:04.733 [main] MyProfileTest - Mouse hover on Manage Addresses and clicked
+[INFO ] 2022-10-07 12:23:06.868 [main] MyProfileTest - clicked on Add New address
+[INFO ] 2022-10-07 12:23:09.955 [main] MyProfileTest - Entered Name
+[INFO ] 2022-10-07 12:23:10.034 [main] MyProfileTest - Entered Phone number
+[INFO ] 2022-10-07 12:23:10.061 [main] MyProfileTest - entered Address
+[INFO ] 2022-10-07 12:23:10.136 [main] MyProfileTest - entered Pincode
+[INFO ] 2022-10-07 12:23:10.221 [main] MyProfileTest - Entered Locality
+[INFO ] 2022-10-07 12:23:10.328 [main] MyProfileTest - Entered Address
+[INFO ] 2022-10-07 12:23:10.413 [main] MyProfileTest - Entered city
+[INFO ] 2022-10-07 12:23:10.472 [main] MyProfileTest - entered state
+[INFO ] 2022-10-07 12:23:10.535 [main] MyProfileTest - Entered Landmark
+[INFO ] 2022-10-07 12:23:10.607 [main] MyProfileTest - Entered Alternate Phone number
+[INFO ] 2022-10-07 12:23:10.649 [main] MyProfileTest - clicked on Address Type
+[INFO ] 2022-10-07 12:23:10.689 [main] MyProfileTest - Save button clicked
+[INFO ] 2022-10-07 12:23:12.777 [main] MyProfileTest - Confim clicked
+[INFO ] 2022-10-07 12:23:47.509 [main] LoginPageTest - User's valid Mobile Number is entered
+[INFO ] 2022-10-07 12:23:47.572 [main] LoginPageTest - User's valid Password is entered
+[INFO ] 2022-10-07 12:23:52.704 [main] LoginPageTest - Clicked on login button
+[INFO ] 2022-10-07 12:23:52.709 [main] LoginPageTest - Actual Title is
+[INFO ] 2022-10-07 12:23:52.709 [main] LoginPageTest - Expected Title is
+[INFO ] 2022-10-07 12:23:55.876 [main] MyProfileTest - Mouse hover on Login
+[INFO ] 2022-10-07 12:23:57.975 [main] MyProfileTest - Clicked on My Profile
+[INFO ] 2022-10-07 12:24:08.219 [main] MyProfileTest - Mouse hover on Manage Addresses and clicked
+[INFO ] 2022-10-07 12:24:10.384 [main] MyProfileTest - Mouse hover on delete option
+[INFO ] 2022-10-07 12:24:10.487 [main] MyProfileTest - Delete option selected
+[INFO ] 2022-10-07 12:24:10.535 [main] MyProfileTest - Delete button clicked
+[INFO ] 2022-10-07 12:25:13.150 [main] LoginPageTest - User's valid Mobile Number is entered
+[INFO ] 2022-10-07 12:25:13.214 [main] LoginPageTest - User's valid Password is entered
+[INFO ] 2022-10-07 12:25:18.283 [main] LoginPageTest - Clicked on login button
+[INFO ] 2022-10-07 12:25:18.289 [main] LoginPageTest - Actual Title is
+[INFO ] 2022-10-07 12:25:18.289 [main] LoginPageTest - Expected Title is
+[INFO ] 2022-10-07 12:25:21.455 [main] MyProfileTest - Mouse hover on Login
+[INFO ] 2022-10-07 12:25:21.518 [main] MyProfileTest - Clicke on My Profile
+[INFO ] 2022-10-07 12:25:24.578 [main] MyProfileTest - Actual User Name on profile is 
+[INFO ] 2022-10-07 12:25:24.578 [main] MyProfileTest - Expected User Name on profile is Ritik Sonker
+[INFO ] 2022-10-07 12:25:34.856 [main] MyOrdersTest - Mouse hover on My Orders and clicked
+[INFO ] 2022-10-07 12:25:37.918 [main] MyOrdersTest - My Orders Page is displayed

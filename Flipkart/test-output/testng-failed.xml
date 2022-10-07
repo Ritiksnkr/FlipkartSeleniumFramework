@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.test.GroceryTest">
+        <methods>
+          <include name="init"/>
+          <include name="startTest"/>
+          <include name="teardown"/>
+          <include name="reportFlush"/>
+          <include name="Setup"/>
+          <include name="afterMethod"/>
+          <include name="GroceryTest"/>
+        </methods>
+      </class> <!-- com.test.GroceryTest -->
+      <class name="com.test.PaymentTest">
+        <methods>
+          <include name="ProceedToPayment"/>
+          <include name="init"/>
+          <include name="startTest"/>
+          <include name="seTup"/>
+          <include name="teardown"/>
+          <include name="reportFlush"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.test.PaymentTest -->
+      <class name="com.test.LoginPageTest">
+        <methods>
+          <include name="LoginTest_with_BlankEmail"/>
+          <include name="LoginTest_with_BlankPassword"/>
+          <include name="setUp"/>
+          <include name="init"/>
+          <include name="startTest"/>
+          <include name="teardown"/>
+          <include name="reportFlush"/>
+          <include name="afterMethod"/>
+          <include name="LoginTest_with_InValidCredential"/>
+        </methods>
+      </class> <!-- com.test.LoginPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
